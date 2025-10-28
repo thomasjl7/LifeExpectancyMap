@@ -1,2 +1,2 @@
 # LifeExpectancyMap
-A choropleth web map to showcase each US States Life expectancy 
+A choropleth web map to showcase each US States Life expectancy. The map uses data from Data Pandas from 2025 to showcase each states life expectancy in years, while the Chloropleth aspect of the map is used so viewers can compare and contrast certain states expectancies just by looking at the color of each state, with the darker the color meaning the longer the life expectancy.
